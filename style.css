@@ -16,6 +16,7 @@ body{
 }
 
 main{
+    margin-top: 15px;
     width:min(900px,95%);
     text-align:center;
 }
